@@ -1,0 +1,105 @@
+.container1 {
+    width: 330px;
+    height: 258px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: 1px solid black;
+    margin: 50px auto;
+    padding: 20px 30px;
+    text-align: center;
+    box-shadow: 2px 3px 3px 1px rgba(0,0,0,0.5);
+
+}
+
+body {
+    background-color: gray;
+}
+
+.container{
+    width: 330px;
+    height: 458px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: 1px solid black;
+    margin: 50px auto;
+    padding: 20px 30px;
+    text-align: center;
+    box-shadow: 2px 3px 3px 1px rgba(0,0,0,0.5);
+
+}
+
+.dua {
+    h1{
+        color: rgb(6, 52, 105);
+        font-family: Tahoma;
+  
+    }
+
+    label, input, button {
+        display: block;
+        text-align: left;
+        margin-bottom: 5px;
+        width: 100%;
+        font-family: tahoma;
+
+    }
+    input[type=text]{
+        padding: 7px;
+        width: 300px;
+    }
+    button{
+        padding: 10px;
+        width: 317px;
+        font-family: tahoma;
+        text-align: center;
+        color: aliceblue;
+        border: none;
+        border-radius: 8px;
+        background-color: rgb(48, 197, 48);
+    }
+    p{
+        font-family: Tahoma;
+        text-align: left;
+    }
+
+}
+
+.satu {
+    h1{
+        color: brown;
+        font-family: Tahoma;
+  
+    }
+
+    label, input, button {
+        display: block;
+        text-align: left;
+        margin-bottom: 5px;
+        width: 100%;
+        font-family: tahoma;
+
+    }
+    input[type=text]{
+        padding: 7px;
+        width: 300px;
+    }
+    button{
+        padding: 10px;
+        width: 317px;
+        font-family: tahoma;
+        text-align: center;
+        color: aliceblue;
+        border: none;
+        border-radius: 8px;
+        background-color: rgb(48, 197, 48);
+    }
+    p{
+        font-family: Tahoma;
+        text-align: left;
+    }
+
+}
+
+input:focus{
+    outline: none;
+}
